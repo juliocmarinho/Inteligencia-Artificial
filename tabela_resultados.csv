@@ -1,0 +1,3 @@
+cenario,n_pacientes,custo_fifo,custo_gulosa,custo_astar,astar_otimo_garantido,astar_estados_expandidos,astar_tempo_segundos
+Pequeno (8 pacientes),8,198.21380187687103,94.29660356988158,85.83695802560149,True,45,0.0
+Médio (25 pacientes),25,11509.274962102802,5983.750475418089,5590.55842414467,False,60000,7.525
